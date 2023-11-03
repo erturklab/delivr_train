@@ -1,5 +1,5 @@
 # DELIVR Training pipeline
-This is the official repository for the DELIVR training pipeline.
+This is the official repository  of the publication ["Virtual reality empowered deep learning analysis of brain activity"](https://doi.org/10.1101/2023.05.18.540970). This repository contains the source code to train DELIVR from scratch or retrain the existing cFos detection network.
 ## Installation
 Requirements can be installed from the requirements.txt, Ranger21 has to be installed according to the [Ranger21 github repository](https://github.com/lessw2020/Ranger21).
 ## Usage
