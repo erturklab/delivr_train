@@ -6,3 +6,4 @@ monai==1.2.0
 nibabel==5.1.0
 torchmetrics==1.0.1
 pytorch-lightning==2.0.5
+pandas==2.1.2
