@@ -1,0 +1,8 @@
+tqdm==4.62.1
+connected-components-3d==3.12.1
+lightning==2.0.5
+matplotlib==3.7.2
+monai==1.2.0
+nibabel==5.1.0
+torchmetrics==1.0.1
+pytorch-lightning==2.0.5

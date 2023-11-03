@@ -1,0 +1,22 @@
+{
+    "dataset":{
+        "raw_path":"/data/raw/",
+        "gt_path": "/data/gt/",
+        "output_path":"/data/output/",
+        "checkpoint_path":"models/",
+        "delivr_model_path":""
+    },
+    "training":{
+        "epochs":5,
+        "learning_rate":1e-3,
+        "normalization":false,
+        "retrain":false,
+        "tta":false,
+        "test_list":"/data/test"
+    },
+    "network":{
+        "batch_size":1,
+        "num_workers":0
+    }
+    
+}
